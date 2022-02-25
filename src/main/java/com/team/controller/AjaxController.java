@@ -22,6 +22,7 @@ public class AjaxController {
 	
 	@RequestMapping(value = "/aEvent/giveCouponSearch", method = RequestMethod.GET)
 	public ResponseEntity<List<AEventDTO>> giveCouponSearch(HttpServletRequest re) {
+		System.out.println("AjaxController :: giveCouponSearch");
 		String searchText = re.getParameter("searchText");
 		List<AEventDTO> result = AEventService.giveCouponSearch(searchText);
 		
