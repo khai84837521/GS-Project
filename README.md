@@ -124,7 +124,3 @@ Demo : http://coby1997.cafe24.com/main
  + 추가 오류사항 지속 지속확인 및 보수
  + 발표준비
  
----
-
-## ETC
-[notion](https://www.notion.so/863ccaa29e094b48a56309ea758307ad?v=c390aeea19c44796aaaf973b30c1a9f2)
